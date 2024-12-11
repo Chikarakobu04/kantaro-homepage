@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kantaro-homepage/static/css/main.8748aca9.css",
+    "main.js": "/kantaro-homepage/static/js/main.674505d5.js",
+    "static/js/488.3223cbdd.chunk.js": "/kantaro-homepage/static/js/488.3223cbdd.chunk.js",
+    "static/media/kantaro-disney.jpg": "/kantaro-homepage/static/media/kantaro-disney.d46355e28df56081b6d1.jpg",
+    "static/media/kantaro-yakyu.jpg": "/kantaro-homepage/static/media/kantaro-yakyu.f46cda2acb886795dcbc.jpg",
+    "static/media/kantaro-spiders.png": "/kantaro-homepage/static/media/kantaro-spiders.6b89381f5cc53e94d60d.png",
+    "index.html": "/kantaro-homepage/index.html",
+    "main.8748aca9.css.map": "/kantaro-homepage/static/css/main.8748aca9.css.map",
+    "main.674505d5.js.map": "/kantaro-homepage/static/js/main.674505d5.js.map",
+    "488.3223cbdd.chunk.js.map": "/kantaro-homepage/static/js/488.3223cbdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8748aca9.css",
+    "static/js/main.674505d5.js"
+  ]
+}
