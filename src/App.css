@@ -1,0 +1,47 @@
+ 
+ .App {
+  text-align: center;
+}
+
+.photo-container {
+  margin: 20px;
+}
+
+ /*introクラスに変更*/
+.intro{        
+  color:rgb(253, 253, 253); /*色変更*/
+  font-size: 20px; /*サイズ変更*/
+  text-align: center;  /* 位置を変更 */
+}
+/* (introはセレクタ
+　　colorはプロパティ
+　　blueは値という )*/
+
+/* 写真変更 */
+.photo{
+  width: 200px; /* 幅を200pxに設定 */
+  height: 300px; /* 高さを画像の縦横比に応じて自動調整 */
+  border: 2px solid black; /* （オプション）画像に黒い枠線を追加 */
+}
+
+
+/* 全体の変更 */
+body{
+  background-color: rgb(142, 177, 255);  /* 背景変更 */
+}
+
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+button:hover {
+  background-color: #0056b3;
+}
